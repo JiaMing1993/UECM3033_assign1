@@ -29,6 +29,11 @@ Put here the screen shot of file (python.png)
 In this section, please report:
 
 1. The hexadecimal value of your student ID.
+
+
+
+
+
 2. Write down the definite integrals that you have chosen.
 3. Write down your system of 10 linear equations.
 
