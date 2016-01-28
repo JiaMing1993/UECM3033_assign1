@@ -7,7 +7,7 @@ def fun_1( your_id ):
 
 def my_integral():
     x = sy.Symbol('x')
-    ans = sy.integrate(((sy.exp(-x**2))*(sy.cos(x**2))), (x,0, sy.oo))
+    ans = sy.integrate(((sy.cos(x))*(sy.sin(x))*(sy.exp(x))), (x,0, sy.oo))
     return ans
 
 def my_solution():
