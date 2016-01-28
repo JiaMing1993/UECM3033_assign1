@@ -25,12 +25,10 @@ Put here the screen shot of file (python.png)
 
 ## Task 3 -- modify and run Python script
 
-Report of task in python:
+The Python script was changed. My student ID was key in to find the hexadecimal representation. The original integral was replaced, and a system of 10 linear equations with unique solution was setup. The report of assignment 1 was written in both markdown file and microsoft words file. Below are the answer given in console:
 
-1. The hexadecimal value of your student ID.\
-\0x1564e2
-2. Write down the definite integrals that you have chosen.\
-\ $$\int_0^{\infty} {cos{x}}*{sin{x}}*{exp{x}} dx = \frac{{\exp{\x}}*{{\sin{2x}}-{\2con{2x}}}}{10}.$$
+1. The hexadecimal value of your student ID.---- 0x1564e2
+2. Write down the definite integrals that you have chosen.--- $$\int_0^{\infty} {cos{x}}*{sin{x}}*{exp{x}} dx = \frac{{\exp{\x}}*{{\sin{2x}}-{\2con{2x}}}}{10}.$$
 
 3. Write down your system of 10 linear equations.
 
